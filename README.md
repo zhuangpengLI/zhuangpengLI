@@ -15,8 +15,8 @@
 
 
 
-| :pencil2: | :book:  |
-| --- | --- |
+| :pencil2: |
+| --- |
 | [Blogs](https://zhuangpengLI.github.io/) |
 
 ### ⚡ Recent Activity
