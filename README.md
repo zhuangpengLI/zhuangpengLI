@@ -1,7 +1,7 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcom💖&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
 
 <h1 align="center">I'm zhuangpengLI</h1>
-<h3 align="center">A passionate java developer from China</h3>
+<h3 align="center">A passionate C/C++/Go/java developer from China</h3>
 
 ### 🌈 Github Stats:
 <a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@zhuangpengLI?theme=rule34"></a><br>
