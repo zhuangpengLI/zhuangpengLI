@@ -10,8 +10,9 @@
 <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhuangpengLI&theme=monokai">
 
 ### 📫 How to reach me:
-- :octocat: [github@xiaorang](https://github.com/zhuangpengLI)
-- :email: [gmail@xiaorang](mailto:15019474951@gmail.com)
+- :octocat: [github@zhuangpengLI](https://github.com/zhuangpengLI)
+- :wx: [a7491772](mailto:908349383@qq.com)
+- :email: [qqmail@zhuangpengLI](mailto:908349383@qq.com)
 
 
 
@@ -21,12 +22,12 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🍭 Write Articles on [Yueque](https://www.yuque.com/xihuanxiaorang/java) with [github](https://github.com/xihuanxiaorang/)
+1. 🍭 Write Articles on [csdn](https://blog.csdn.net/a7491772) with [github](https://github.com/zhuangpengLI/)
 2. 🍹 Study on [Bilibili](https://www.bilibili.com/)
 <!--END_SECTION:activity-->
 
 <!--
-**xihuanxiaorang/xihuanxiaorang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**zhuangpengLI/zhuangpengLI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
