@@ -11,7 +11,7 @@
 
 ### 📫 How to reach me:
 - :octocat: [github@zhuangpengLI](https://github.com/zhuangpengLI)
-- :wx: [a7491772](mailto:908349383@qq.com)
+- :octocat: wx:[a7491772](mailto:908349383@qq.com)
 - :email: [qqmail@zhuangpengLI](mailto:908349383@qq.com)
 
 
